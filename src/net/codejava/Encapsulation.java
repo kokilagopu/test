@@ -11,6 +11,7 @@ package net.codejava;
 		  Encapsulation myCircle = new Encapsulation();
 		  System.out.println("Radius is " + myCircle.radius);
 		  System.out.println("Area of cirle: " +myCircle.getArea()); 
+		  System.out.println("----------------");
 		 }
 
 
