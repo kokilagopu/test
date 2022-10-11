@@ -12,6 +12,8 @@ package net.codejava;
 		  System.out.println("Radius is " + myCircle.radius);
 		  System.out.println("Area of cirle: " +myCircle.getArea()); 
 		  System.out.println("----------------");
+		  System.out.println("----------------");
+
 		 }
 
 
